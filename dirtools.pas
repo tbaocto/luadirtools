@@ -51,6 +51,6 @@ end;
 
 
 exports
-	luaopen_libreaddir;
+	luaopen_libdirtools;
 
 end.
